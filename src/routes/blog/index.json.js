@@ -1,7 +1,9 @@
-import posts from "./_posts.js";
+import faunaposts from "./_faunaposts.js";
 
+    console.log('fp3: ',faunaposts)
 const contents = JSON.stringify(
-	posts.map((post) => {
+	faunaposts.map((post) => {
+		console.log(post)
 		return {
 			title: post.title,
 			slug: post.slug,
