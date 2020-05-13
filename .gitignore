@@ -5,3 +5,12 @@ yarn-error.log
 /cypress/screenshots/
 /__sapper__/
 package-lock.json
+/.idea/sapper-cms.iml
+/package-lock.json
+/.idea/modules.xml
+/src/node_modules
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/workspace.xml
+/node_modules
+/__sapper__
