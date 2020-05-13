@@ -1,6 +1,6 @@
 import faunaposts from "./_faunaposts.js";
 
-    console.log('fp3: ',faunaposts)
+console.log('fp3: ',faunaposts)
 const contents = JSON.stringify(
 	faunaposts.map((post) => {
 		console.log(post)
